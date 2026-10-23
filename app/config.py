@@ -1,0 +1,3 @@
+SYSTEM_PROMPT = (
+    "You are a helpful assistant tasked with performing arithmetic on a set of inputs."
+)
