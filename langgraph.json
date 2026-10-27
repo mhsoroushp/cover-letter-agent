@@ -5,5 +5,7 @@
   "graphs": {
     "simple-agent": "./app/graph.py:agent"
   },
-  "env": ".env"
+  "python_version": "3.14",
+  "env": ".env",
+  "image_distro": "wolfi"
 }

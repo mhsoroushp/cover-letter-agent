@@ -25,5 +25,3 @@ def build_agent(checkpointer=None):
 
 
 agent = build_agent()
-    # agent_builder.add_node("llm_call", nodes.llm_call)
-    # agent_builder.add_node("tool_node", nodes.tool_node)

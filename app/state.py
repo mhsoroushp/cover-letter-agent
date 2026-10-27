@@ -20,7 +20,7 @@ class QualityCheckResult(BaseModel):
 
 class CoverLetterState(MessagesState):
     cv_text: str
-    job_desciption: str
+    job_text: str
     analysis: str
     draft_letter: str
     quality_check: QualityCheckResult
